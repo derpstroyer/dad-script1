@@ -22,7 +22,7 @@ while True:
             x = 0
             raw_num = elem.text
             if raw_num == 'unch':
-                break
+                pass
             num = float(raw_num)
             while x == 0:
                 if num > 0.005:
