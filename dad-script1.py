@@ -25,7 +25,7 @@ while True:
                 pass
             num = float(raw_num)
             while x == 0:
-                if num > 0.005:
+                if num > 0.25:
                     username = 'ACa0a692ebfb58c431597f503662481c20'  # account sid
                     password = 'ba8b3ee2ba0ba09646da1d97701cf777'  # auth token
 
@@ -60,7 +60,7 @@ while True:
             else:
                 num = float(raw_num)
             while x == 0:
-                if num > 0.005:
+                if num > 0.25:
                     username = 'ACa0a692ebfb58c431597f503662481c20'  # account sid
                     password = 'ba8b3ee2ba0ba09646da1d97701cf777'  # auth token
 
